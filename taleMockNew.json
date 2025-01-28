@@ -13,6 +13,7 @@
         "likeCount": 25,
         "isLiked": false,
         "viewCount": 100,
+        "imgURL": "https://github.com/one-day-in/DataBase/blob/main/KazkaApp/tale1.jpg"
     },
         {
         "id": "7c04285f-8610-4740-9e11-c9679c29957c",
@@ -27,7 +28,8 @@
         "language": "uk",
         "likeCount": 60,
         "isLiked": false,
-        "viewCount": 240
+        "viewCount": 240,
+        "imgURL": "https://github.com/one-day-in/DataBase/blob/main/KazkaApp/tale10.jpg"
     },
         {
         "id": "35bc2957-d2c6-43a1-9c1c-99d99723528b",
@@ -42,7 +44,8 @@
         "language": "uk",
         "likeCount": 55,
         "isLiked": false,
-        "viewCount": 220
+        "viewCount": 220,
+        "imgURL": "https://github.com/one-day-in/DataBase/blob/main/KazkaApp/tale10.jpg"
     },
         {
         "id": "80055a3e-73d4-4989-b001-c89b359c256a",
@@ -57,7 +60,8 @@
         "language": "uk",
         "likeCount": 115,
         "isLiked": false,
-        "viewCount": 460
+        "viewCount": 460,
+            "imgURL": "https://github.com/one-day-in/DataBase/blob/main/KazkaApp/tale10.jpg"
     },
     {
         "id": "98765432-10fe-4dcb-a987-6543210fedcb",
@@ -72,7 +76,8 @@
         "language": "uk",
         "likeCount": 15,
         "isLiked": false,
-        "viewCount": 80
+        "viewCount": 80,
+        "imgURL": "https://github.com/one-day-in/DataBase/blob/main/KazkaApp/tale10.jpg"
     },
     {
         "id": "41526374-c0d1-4e5f-879a-b0c1d2e3f403",
@@ -87,7 +92,8 @@
         "language": "uk",
         "likeCount": 120,
         "isLiked": false,
-        "viewCount": 480
+        "viewCount": 480,
+        "imgURL": "https://github.com/one-day-in/DataBase/blob/main/KazkaApp/tale10.jpg"
     },
     {
         "id": "53647586-d2e3-4012-3456-789012345674",
@@ -102,7 +108,8 @@
         "language": "uk",
         "likeCount": 95,
         "isLiked": false,
-        "viewCount": 390
+        "viewCount": 390,
+        "imgURL": "https://github.com/one-day-in/DataBase/blob/main/KazkaApp/tale10.jpg"
     },
         {
         "id": "e9f01234-c3d4-4012-3456-7890123456ba",
@@ -117,7 +124,8 @@
         "language": "uk",
         "likeCount": 63,
         "isLiked": false,
-        "viewCount": 255
+        "viewCount": 255,
+        "imgURL": "https://github.com/one-day-in/DataBase/blob/main/KazkaApp/tale10.jpg"
     },
     {
         "id": "798091a2-b3c4-4456-7a9b-c0d1e2f30413",
@@ -132,7 +140,8 @@
         "language": "uk",
         "likeCount": 38,
         "isLiked": false,
-        "viewCount": 162
+        "viewCount": 162,
+        "imgURL": "https://github.com/one-day-in/DataBase/blob/main/KazkaApp/tale10.jpg"
     },
        {
         "id": "8b9c0d1e-f2a3-4456-7890-123456789014",
@@ -147,7 +156,8 @@
         "language": "uk",
         "likeCount": 50,
         "isLiked": false,
-        "viewCount": 200
+        "viewCount": 200,
+        "imgURL": "https://github.com/one-day-in/DataBase/blob/main/KazkaApp/tale10.jpg"
     },
     {
         "id": "43546576-d2e3-4e5f-879a-b0c1d2e3f40d",
@@ -162,7 +172,8 @@
         "language": "uk",
         "likeCount": 28,
         "isLiked": false,
-        "viewCount": 112
+        "viewCount": 112,
+        "imgURL": "https://github.com/one-day-in/DataBase/blob/main/KazkaApp/tale10.jpg"
     },
     {
         "id": "b3346f66-4376-4a1b-8c88-164797178829",
@@ -177,7 +188,8 @@
         "language": "uk",
         "likeCount": 100,
         "isLiked": false,
-        "viewCount": 410
+        "viewCount": 410,
+        "imgURL": "https://github.com/one-day-in/DataBase/blob/main/KazkaApp/tale10.jpg"
     }
 ]
 
