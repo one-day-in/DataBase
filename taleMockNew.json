@@ -134,7 +134,7 @@
         "plot": "Зайчик знаходить нових друзів у лісі.",
         "dream": "Мати багато вірних друзів.",
         "ability": "Доброзичливість та відкритість.",
-        "ageGroup": "2,
+        "ageGroup": 2,
         "isPrivate": false,
         "userId": "gen_user",
         "language": "uk",
